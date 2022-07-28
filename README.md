@@ -1,6 +1,6 @@
 # random_users
 
-This is a Random Users Full stack application.</br>
+This Random Users application receives data from api, saves it to DB, and displays it.</br>
 
 Built with WAMP stack: Windows, Apache, MySQL, and PHP.</br>
 
@@ -9,18 +9,18 @@ frontend - HTML & CSS. </br>
 backend - PHP. </br>
 Database - Mysql. </br>
 
-Content GET from free api: "https://randomuser.me/api" (return JSON)
+Content from free api: "https://randomuser.me/api" (return JSON)
 
 Instructions - how to run the project:</br>
 1. Initialize XAMP / MAMP.</br>
-2. Create a folder on htdocs, load the project to it and open on your IDE for code modifications.</br>
+2. Create a folder on htdocs, load the project into it and open your IDE for code modifications.</br>
 
 "http://localhost/THE_NAME_OF_YOUR_FOLDER/index.php" - client view.</br>
 
 3. Make sure the connection to mysql is compatible with your DB preferences.</br>
     * the current connection is set to default.</br>
 4. Create a table on your DB named "users". </br>
-    Database structure is as follows:</br>
+    The database structure is as follows:</br>
     id - unique, auto increment, primary key</br>
     name - varchar(50)</br>
     age - int(3), indexed</br>
