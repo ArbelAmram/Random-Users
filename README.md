@@ -5,7 +5,7 @@ This is a Random Users Full stack application.</br>
 Built with WAMP stack: Windows, Apache, MySQL, and PHP.</br>
 
 Project management: </br>
-frontend client - HTML & CSS. </br>
+frontend - HTML & CSS. </br>
 backend - PHP. </br>
 Database - Mysql. </br>
 
