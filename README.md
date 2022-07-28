@@ -11,7 +11,7 @@ Database - Mysql. </br>
 
 Instructions - how to run the project:</br>
 1. Initialize XAMP / MAMP.</br>
-2. Create a folder on htdocs, load the project to it and open it on your IDE for code modifications.</br>
+2. Create a folder on htdocs, load the project to it and open on your IDE for code modifications.</br>
 3. Make sure the connection to mysql is compatible with your DB preferences.</br>
     * the current connection is set to default.</br>
 4. Create a table on your DB named "users". </br>
