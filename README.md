@@ -30,7 +30,7 @@ http://localhost/THE_NAME_OF_YOUR_FOLDER/index.php - client view.</br>
 
 http://localhost/phpmyadmin - DB view.</br>
 
-Final Solution: <br/>
+<h1>Final Solution:<h1/><br/>
 ![sample](https://user-images.githubusercontent.com/51449659/181442563-09315189-d489-447a-b1b4-9128a770e339.jpg)
 
 
