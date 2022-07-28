@@ -9,6 +9,8 @@ frontend - HTML & CSS. </br>
 backend - PHP. </br>
 Database - Mysql. </br>
 
+Content GET from free api: "https://randomuser.me/api" (return JSON)
+
 Instructions - how to run the project:</br>
 1. Initialize XAMP / MAMP.</br>
 2. Create a folder on htdocs, load the project to it and open on your IDE for code modifications.</br>
