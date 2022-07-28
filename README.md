@@ -28,4 +28,7 @@ Instructions - how to run the project:</br>
 
 "http://localhost/phpmyadmin" - DB view.</br>
 
+![sample](https://user-images.githubusercontent.com/51449659/181442563-09315189-d489-447a-b1b4-9128a770e339.jpg)
+
+
 
