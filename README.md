@@ -5,9 +5,9 @@ This is a Random Users Full stack application.
 Built with WAMP stack: Windows, Apache, MySQL, and PHP
 
 Project management:
-frontend client - HTML & CSS
-backend server - PHP
-Database Mysql
+frontend client - HTML & CSS </br>
+backend server - PHP </br>
+Database Mysql </br>
 
 Instructions - how to run the project:
 1. Initialize XAMP / MAMP.
