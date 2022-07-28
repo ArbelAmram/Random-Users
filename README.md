@@ -6,7 +6,7 @@ Built with WAMP stack: Windows, Apache, MySQL, and PHP.</br>
 
 Project management: </br>
 frontend client - HTML & CSS. </br>
-backend server - PHP. </br>
+backend - PHP. </br>
 Database - Mysql. </br>
 
 Instructions - how to run the project:</br>
