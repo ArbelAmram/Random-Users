@@ -2,17 +2,17 @@
 
 This is a Random Users Full stack application.
 
-Built with WAMP stack: Windows, Apache, MySQL, and PHP
+Built with WAMP stack: Windows, Apache, MySQL, and PHP.
 
 Project management: </br>
-frontend client - HTML & CSS </br>
-backend server - PHP </br>
-Database Mysql </br>
+frontend client - HTML & CSS. </br>
+backend server - PHP. </br>
+Database - Mysql. </br>
 
 Instructions - how to run the project:
 1. Initialize XAMP / MAMP.
 2. Create a folder on htdocs, load the project to it and open it on your IDE for code modifications.
-3. Make sure the connection to mysql is compatible with your DB preferences/
+3. Make sure the connection to mysql is compatible with your DB preferences.
     * the current connection is set to default.
 4. Create a table on your DB named "users". 
     Database structure is as follows:
