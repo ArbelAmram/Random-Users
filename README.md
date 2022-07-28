@@ -19,7 +19,7 @@ http://localhost/THE_NAME_OF_YOUR_FOLDER/index.php - client view.</br>
 
 3. Make sure the connection to mysql is compatible with your DB preferences.</br>
     * the current connection is set to default.</br>
-4. Create a table on your DB named "users". </br>
+4. Create a table on your DB - both table and databas named "users". </br>
     The database structure is as follows:</br>
     id - unique, auto increment, primary key</br>
     name - varchar(50)</br>
