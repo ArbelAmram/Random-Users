@@ -23,6 +23,6 @@ Instructions - how to run the project:
     email - varchar(50)
     profile_pic - varchar(150).
 
-"http://localhost/THE_NAME_OF_YOUR_FOLDER" - client view.
+"http://localhost/THE_NAME_OF_YOUR_FOLDER" - client view.</br>
 "http://localhost/phpmyadmin" - DB view.
 
