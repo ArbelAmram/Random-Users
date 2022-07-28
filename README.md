@@ -13,7 +13,7 @@ Instructions - how to run the project:</br>
 1. Initialize XAMP / MAMP.</br>
 2. Create a folder on htdocs, load the project to it and open on your IDE for code modifications.</br>
 
-"http://localhost/THE_NAME_OF_YOUR_FOLDER" - client view.</br>
+"http://localhost/THE_NAME_OF_YOUR_FOLDER/index.php" - client view.</br>
 
 3. Make sure the connection to mysql is compatible with your DB preferences.</br>
     * the current connection is set to default.</br>
