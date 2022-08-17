@@ -11,7 +11,7 @@
                 crossorigin="anonymous">
         </script>
         
-        <!-- AJAX and JQUERY -->
+        <!-- AJAX & JQUERY -->
         <script>
                 $(document).ready(function() {
                         $("#btn").click(function() {
