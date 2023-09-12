@@ -13,7 +13,7 @@ Content from free api: https://randomuser.me/api (return JSON)
 
 Instructions - how to run the project:</br>
 1. Initialize XAMPP / MAMP.</br>
-2. Create a folder on htdocs, load the project into it and open your IDE for code modifications.</br>
+2. Create a folder on htdocs, load the project into it, and open your IDE for code modifications.</br>
 
 http://localhost/THE_NAME_OF_YOUR_FOLDER/index.php - client view.</br>
 
