@@ -9,7 +9,7 @@ frontend - HTML & CSS. </br>
 backend - PHP. </br>
 Database - Mysql. </br>
 
-Content from free api: https://randomuser.me/api (return JSON)
+Content from free API: https://randomuser.me/api (return JSON)
 
 Instructions - how to run the project:</br>
 1. Initialize XAMPP / MAMP.</br>
