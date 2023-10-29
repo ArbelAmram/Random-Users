@@ -1,4 +1,4 @@
-# random_users
+# Random Users
 
 This Random Users application receives data from API, saves it to DataBase, and displays it.</br>
 
