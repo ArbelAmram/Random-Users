@@ -1,6 +1,6 @@
 # Random Users
 
-This Random Users application receives data from API, saves it to DataBase, and displays it.</br>
+Functionality: receives data from API, saves it to DataBase, and displays it.</br>
 
 Built with WAMP stack: Windows, Apache, MySQL, and PHP.</br>
 
