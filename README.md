@@ -1,8 +1,11 @@
 # Random Users
 
-Functionality: receives data from API, saves it to DataBase, and displays it.</br>
+Project Description:</br>
+1. Fetch data from API.</br>
+2. Write data to database.</br>
+3. Display from database to user.</br>
 
-Built with WAMP stack: Windows, Apache, MySQL, and PHP.</br>
+Tech Stack (WAMPW): Windows, Apache, MySQL, and PHP.</br>
 
 Project management: </br>
 frontend - HTML & CSS. </br>
