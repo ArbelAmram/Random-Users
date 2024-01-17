@@ -1,29 +1,13 @@
 # Random Users
 
-Project Description:</br>
-1. Fetch data from API.</br>
-2. Write data to database.</br>
-3. Display from database to user.</br>
+Description:</br>
+In this project, I fetched random users from free API as JSON.</br>
+Wrote data to MySQL database and displayed the database to the UI.</br>
 
 Tech Stack (WAMPW): Windows, Apache, MySQL, and PHP.</br>
+Content from free API: https://randomuser.me/api
 
-Project management: </br>
-frontend - HTML & CSS. </br>
-backend - PHP. </br>
-Database - Mysql. </br>
-
-Content from free API: https://randomuser.me/api (return JSON)
-
-Instructions - how to run the project:</br>
-1. Initialize XAMPP / MAMP.</br>
-2. Create a folder on htdocs, load the project into it, and open your IDE for code modifications.</br>
-
-http://localhost/THE_NAME_OF_YOUR_FOLDER/index.php - client view.</br>
-
-3. Make sure the connection to MySQL is compatible with your DB preferences.</br>
-    * My connection is set to default.</br>
-4. Create a table on your DB - both table and database named "users". </br>
-    The database structure is as follows:</br>
+Database structure:</br>
     id - unique, auto increment, primary key</br>
     name - varchar(50)</br>
     age - int(3), indexed</br>
@@ -31,9 +15,8 @@ http://localhost/THE_NAME_OF_YOUR_FOLDER/index.php - client view.</br>
     email - varchar(50)</br>
     profile_pic - varchar(150).</br>
 
-http://localhost/phpmyadmin - DB view.</br>
 
-<h1>Final Solution<h1/>
+<h1>Showcase Result<h1/>
    
 ![sample](https://user-images.githubusercontent.com/51449659/181442563-09315189-d489-447a-b1b4-9128a770e339.jpg)
 
